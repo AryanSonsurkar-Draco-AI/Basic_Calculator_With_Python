@@ -1,4 +1,5 @@
 #  Simple Python Calculator
+A beginner-friendly command-line calculator that performs basic math operations like add, subtract, multiply, and divide.
 
 A beginner-friendly Python project that performs the four basic arithmetic operations:
 
