@@ -10,7 +10,6 @@ A beginner-friendly Python project that performs the four basic arithmetic opera
 
 This calculator runs in the terminal and uses clean, modular functions.
 
----
 
 ##  Features
 - Easy-to-use CLI menu  
@@ -19,7 +18,8 @@ This calculator runs in the terminal and uses clean, modular functions.
 - Modular code (each operation is a separate function)  
 - Beginner-friendly  
 
----
+## About the Project
+I built this project to practice Python basics like functions, loops, user input, and error handling. It helped me understand how to structure simple CLI applications and improve my coding confidence.
 
 ##  How to Run
 
