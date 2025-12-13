@@ -1,31 +1,67 @@
-#  Simple Python Calculator
-A beginner-friendly command-line calculator that performs basic math operations like add, subtract, multiply, and divide.
+Extended Python Calculator
 
-A beginner-friendly Python project that performs the four basic arithmetic operations:
+An extended command-line calculator built with Python that supports both basic and advanced mathematical operations through a clean, menu-driven interface.
 
-- Addition  
-- Subtraction  
-- Multiplication  
-- Division  
+This project is beginner-friendly while demonstrating good programming practices such as modular design, structured input handling, and clear control flow.
 
-This calculator runs in the terminal and uses clean, modular functions.
+Overview
 
+The Extended Python Calculator performs a range of arithmetic operations, covering both basic calculations and commonly used advanced operations.
 
-##  Features
-- Easy-to-use CLI menu  
-- Input validation  
-- Prevents division by zero  
-- Modular code (each operation is a separate function)  
-- Beginner-friendly  
+The application runs in the terminal and is organized using separate functions for each operation, making the code easy to read, maintain, and extend.
 
-## About the Project
-I built this project to practice Python basics like functions, loops, user input, and error handling. It helped me understand how to structure simple CLI applications and improve my coding confidence.
+Supported Operations
 
-##  How to Run
+Addition
 
-Make sure you have Python installed.
+Subtraction
 
-Run the file using:
+Multiplication
 
+Division (with division-by-zero handling)
+
+Power (exponentiation)
+
+Square root
+
+Percentage calculation
+
+Features
+
+Interactive command-line menu
+
+Input validation for numeric values
+
+Safe handling of division by zero
+
+Modular code structure with separate functions for each operation
+
+Support for both single-input and two-input operations
+
+Clean and readable output formatting
+
+Beginner-friendly and easily extendable
+
+About the Project
+
+This project was built to strengthen my understanding of core Python concepts, including:
+
+Functions and modular programming
+
+Loops and conditional logic
+
+User input handling
+
+Error handling using exceptions
+
+Designing clean control flow for CLI-based applications
+
+By extending a basic calculator into a more feature-rich version, I gained practical experience in improving existing code while maintaining clarity and stability.
+
+How to Run
+
+Ensure Python is installed on your system.
+
+Run the program using the following command:
 ```bash
 python calculator.py
